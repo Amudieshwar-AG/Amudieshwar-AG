@@ -10,6 +10,8 @@
 </p>
 
 
+
+
 ## 🔧 Skills & Tools  
 - **Languages:** Python, SQL, C  
 - **Tools:** VS Code, Git, GitHub  
