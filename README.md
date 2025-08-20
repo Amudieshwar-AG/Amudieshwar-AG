@@ -5,6 +5,10 @@
 🚀 Currently learning Python for Data Science & exploring open-source projects  
 
 ---
+<p align="center">
+  <img src="amudieshwarr.png" width="200" />
+</p>
+
 
 ## 🔧 Skills & Tools  
 - **Languages:** Python, SQL, C  
