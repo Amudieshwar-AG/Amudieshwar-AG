@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Amudieshwar  
+# 👋 Hi, I'm
 <p align="center">
-  <img src="t.png" width="600" />
+  <img src="t.png" width="800" />
 </p>
 
 🎓 2nd Year B.Tech AI & Data Science Student @ Rajalakshmi Institute of Technology, Chennai  
