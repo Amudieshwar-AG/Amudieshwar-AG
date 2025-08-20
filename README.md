@@ -1,6 +1,6 @@
 # 👋 Hi, I'm
 <p align="center">
-  <img src="t.png" width="700" />
+  <img src="t.png" width="600" />
 </p>
 
 🎓 2nd Year B.Tech AI & Data Science Student @ Rajalakshmi Institute of Technology, Chennai  
