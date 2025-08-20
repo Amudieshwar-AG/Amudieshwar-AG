@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Amudieshwar  
+<p align="center">
+  <img src="amudieshwarr.png" width="200" />
+</p>
 
 🎓 2nd Year B.Tech AI & Data Science Student @ Rajalakshmi Institute of Technology, Chennai  
 💻 Passionate about AI, Machine Learning, and Data Science  
 🚀 Currently learning Python for Data Science & exploring open-source projects  
 
 ---
-<p align="center">
-  <img src="amudieshwarr.png" width="200" />
-</p>
+
 
 
 ## 🛠️ Skills and tools  
